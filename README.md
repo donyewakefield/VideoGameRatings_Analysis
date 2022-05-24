@@ -14,7 +14,7 @@ A heavy analysis of video game data pertaining to the ratings issued by both gam
 * histograms
 * research paper
 
-## Additional add-ons:
+## Future add-ons:
 * build an actual machine learning model to predict the global sales of a particular video game
 * create some sort of basic UI for a user to interact with that ml model
 
